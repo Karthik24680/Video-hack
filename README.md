@@ -1,17 +1,17 @@
 <h2 align="center"><u>VidPhisher</u></h2>
 
-![Hack anyone's camera and get videos](https://github.com/KasRoudra/VidPhisher/raw/main/files/banner.png)
+![Hack anyone's camera and get videos](https://github.com/MR.KK/VidPhisher/raw/main/files/banner.png)
 
 <h4 align="center"> Hack anyone's camera and get videos!</h4>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Version-1.2-blue?style=for-the-badge&color=blue">
-   <img src="https://img.shields.io/github/stars/KasRoudra/VidPhisher?style=for-the-badge&color=magenta">
-  <img src="https://img.shields.io/github/forks/KasRoudra/VidPhisher?color=cyan&style=for-the-badge&color=purple">
-  <img src="https://img.shields.io/github/issues/KasRoudra/VidPhisher?color=red&style=for-the-badge">
-  <img src="https://img.shields.io/github/license/KasRoudra/VidPhisher?style=for-the-badge&color=blue">
+   <img src="https://img.shields.io/github/stars/MR.KK/VidPhisher?style=for-the-badge&color=magenta">
+  <img src="https://img.shields.io/github/forks/MR.Kk/VidPhisher?color=cyan&style=for-the-badge&color=purple">
+  <img src="https://img.shields.io/github/issues/MR.KK/VidPhisher?color=red&style=for-the-badge">
+  <img src="https://img.shields.io/github/license/MR.KK/VidPhisher?style=for-the-badge&color=blue">
 <br>
-    <img src="https://img.shields.io/badge/Author-KasRoudra-green?style=flat-square">
+    <img src="https://img.shields.io/badge/Author-MR.KK-blue?style=flat-square">
     <img src="https://img.shields.io/badge/Open%20Source-Yes-orange?style=flat-square">
     <img src="https://img.shields.io/badge/Maintained-Yes-cyan?style=flat-square">
     <img src="https://img.shields.io/badge/Written%20In-Shell-blue?style=flat-square">
@@ -23,12 +23,12 @@
 
 ### [*]Announcement
 
-This project is now a part of [MaxPhisher](https://github.com/KasRoudra/MaxPhisher). Further bug fixes and feature addition will be available in that
+This project is now a part of [MaxPhisher](https://github.com/karthik24680/MaxPhisher). Further bug fixes and feature addition will be available in that
 
 
 ### [+] Installation
 
-- `git clone https://github.com/KasRoudra/VidPhisher`
+- `git clone https://github.com/Karthik24680/VidPhisher`
 - `cd VidPhisher`
 
 For termux, use additional command `termux-setup-storage`
@@ -38,13 +38,13 @@ For termux, use additional command `termux-setup-storage`
 ##### Or Run Directly
 
 ```
-wget https://raw.githubusercontent.com/KasRoudra/VidPhisher/main/vp.sh && bash vp.sh
+wget https://raw.githubusercontent.com/Karthik24680/VidPhisher/main/vp.sh && bash vp.sh
 ```
 
 ### Docker
 
- - `sudo docker pull kasroudra/vidphisher`
- - `sudo docker run --rm -it --name vidphisher kasroudra/vidphisher`
+ - `sudo docker pull karthik24680/vidphisher`
+ - `sudo docker run --rm -it --name vidphisher karthik24680/vidphisher`
  - `sudo docker cp vidphisher:/VidPhisher vidfiles` [Run this on another terminal to copy received video/audio from docker to vidfiles folder keeping container open] 
 
 
@@ -75,7 +75,7 @@ Options:
 
 ### [+] Preview
 
-![Hack anyone's camera and get videos](https://github.com/KasRoudra/VidPhisher/raw/main/files/vp.gif)
+![Hack anyone's camera and get videos](https://github.com/Karthik24680/VidPhisher/raw/main/files/vp.gif)
 
 ### [+] Depenencies
 
@@ -100,11 +100,11 @@ Thanks to <a href="https://github.com/Techchipnet/camphish">Techchip</a> and <a 
 
 ## [~] Find Me on :
 
-- [![Github](https://img.shields.io/badge/Github-KasRoudra-green?style=for-the-badge&logo=github)](https://github.com/KasRoudra)
+- [![Github](https://img.shields.io/badge/Github-Karthik-green?style=for-the-badge&logo=github)](https://github.com/Karthik24680)
 
-- [![Gmail](https://img.shields.io/badge/Gmail-KasRoudra-green?style=for-the-badge&logo=gmail)](mailto:kasroudrakrd@gmail.com)
+- [![Gmail](https://img.shields.io/badge/Gmail-MR.KK-green?style=for-the-badge&logo=gmail)](mailto:maramkarthik21@gmail.com)
 
-- [![Facebook](https://img.shields.io/badge/Facebook-KasRoudra-green?style=for-the-badge&logo=facebook)](https://facebook.com/KasRoudra)
+- [![Facebook](https://img.shields.io/badge/Facebook-MR.KK-green?style=for-the-badge&logo=facebook)](https://www.facebook.com/profile.php?id=100036766940182&mibextid=ZbWKwL)
 
-- [![Messenger](https://img.shields.io/badge/Messenger-KasRoudra-green?style=for-the-badge&logo=messenger)](https://m.me/KasRoudra)
+- [![Messenger](https://img.shields.io/badge/Messenger-Karthik-green?style=for-the-badge&logo=messenger)](https://m.me/Karthik)
 
